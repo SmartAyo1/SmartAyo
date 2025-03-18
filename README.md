@@ -13,7 +13,7 @@ Hi, I am Samuel Ojo! A passionate Data Analyst with experience in data visualiza
   - Implemented predictive models to enhance learning experiences.  
   - Worked with cross-functional teams (Software Devs, Cybersecurity, Digital Marketers) to optimize the platform.
 
-**Queless App** *(Rsearch Analyst)*
+**Queless App** *(Research Analyst)*
 -  Collected, cleaned and analyzed research data using Microsoft Excel and Power BI
 -  Documented all research findings and processes to contribute to company’s knowledge base.
 -  Contributed to the success of the Queueless app project by providing critical support during all stages of development and implementation
