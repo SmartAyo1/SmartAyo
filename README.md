@@ -4,7 +4,7 @@ Hi, I am Samuel Ojo! A passionate Data Analyst with experience in data visualiza
 
 ## 🛠️ Skills
 - Data Analysis (R, SQL)
-- Visualization (Power BI, Tableau, Excel)
+- Visualization (Power BI, Tableau, Excel, Microsoft Fabric, Looker Studio)
 - Machine Learning (Scikit-learn, TensorFlow)
 
 ## 📂 Projects
@@ -23,3 +23,4 @@ Hi, I am Samuel Ojo! A passionate Data Analyst with experience in data visualiza
 ## 📫 Connect With Me
 - [LinkedIn](www.linkedin.com/in/samuel-oluwaseun-ojo)
 - [Twitter](https://x.com/Merije124?t=5NzxMQsQ7_Qd_Lxj4h1iHQ&s=09)
+- https://myfol.io/samuelojo
