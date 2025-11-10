@@ -1,11 +1,18 @@
 # SmartAyo Portfolio
 ## 👋 About Me
-Hi, I am Samuel Ojo! A passionate Data Analyst with experience in data visualization, analysis and interpretation.
+Hi, I am Samuel Ojo, a Data and Business Analyst with strong experience in building data-driven solutions, optimizing reporting systems, and supporting business operations through analytics. I work extensively with SQL, Power BI, Excel, and ERP tools such as SAP, Microsoft Dynamics, and other enterprise systems.
+
+My interests include designing automated reporting workflows, building scalable dashboards, and turning complex datasets into clear, actionable insights. I enjoy exploring new technologies, improving data processes, and contributing to analytical and business intelligence projects.
 
 ## 🛠️ Skills
-- Data Analysis (Excel, SQL)
-- Visualization (Power BI, Tableau, Excel, Microsoft Fabric, Looker Studio)
-- Machine Learning (Scikit-learn, TensorFlow)
+- Data Analysis: SQL, Excel (advanced), Power BI, DAX, Data Modeling
+- Databases: PostgreSQL, MySQL, MS SQL Server
+- Business Intelligence: Dashboard development, KPI design, automated reporting
+- Data Engineering Basics: ETL workflows, data cleaning, data transformation
+- ERP Systems: SAP, Microsoft Dynamics, enterprise data management
+- Programming: Python (pandas, numpy, matplotlib), basic API integrations
+- Tools & Platforms: Microsoft Fabric, Git/GitHub, Jupyter, Excel Power Query
+- Business Analysis: Requirements gathering, process mapping, documentation, stakeholder engagement
 
 ## 📂 Projects
 **Braintrust E-learning Platform** *(Project Lead)*  
